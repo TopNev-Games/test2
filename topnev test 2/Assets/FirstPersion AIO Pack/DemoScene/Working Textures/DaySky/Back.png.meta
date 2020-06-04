@@ -1,5 +1,13 @@
 fileFormatVersion: 2
+<<<<<<< HEAD
+<<<<<<< HEAD:topnev test 2/Assets/FirstPersion AIO Pack/DemoScene/Working Textures/DaySky/Back.png.meta
 guid: 8de32711a8f4df5448e14b373ffe990b
+=======
+guid: 10179a98821217e49ab7c5d2bb0056ec
+>>>>>>> 1ca0b02101b4941c2281a16fc5f87f9277b2d587:topnev test 2/Assets/Scenes/SampleScene/ReflectionProbe-0.exr.meta
+=======
+guid: 8de32711a8f4df5448e14b373ffe990b
+>>>>>>> 1ca0b02101b4941c2281a16fc5f87f9277b2d587
 TextureImporter:
   fileIDToRecycleName: {}
   externalObjects: {}
@@ -25,18 +33,32 @@ TextureImporter:
   streamingMipmapsPriority: 0
   grayScaleToAlpha: 0
   generateCubemap: 6
+<<<<<<< HEAD
+  cubemapConvolution: 1
+  seamlessCubemap: 1
+=======
   cubemapConvolution: 0
   seamlessCubemap: 0
+>>>>>>> 1ca0b02101b4941c2281a16fc5f87f9277b2d587
   textureFormat: 1
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
+<<<<<<< HEAD
+    filterMode: 2
+    aniso: 0
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+=======
     filterMode: -1
     aniso: -1
     mipBias: -100
     wrapU: -1
     wrapV: -1
     wrapW: -1
+>>>>>>> 1ca0b02101b4941c2281a16fc5f87f9277b2d587
   nPOTScale: 1
   lightmap: 0
   compressionQuality: 50
@@ -52,7 +74,11 @@ TextureImporter:
   alphaIsTransparency: 0
   spriteTessellationDetail: -1
   textureType: 0
+<<<<<<< HEAD
+  textureShape: 2
+=======
   textureShape: 1
+>>>>>>> 1ca0b02101b4941c2281a16fc5f87f9277b2d587
   singleChannelComponent: 0
   maxTextureSizeSet: 0
   compressionQualitySet: 0
@@ -64,7 +90,11 @@ TextureImporter:
     resizeAlgorithm: 0
     textureFormat: -1
     textureCompression: 1
+<<<<<<< HEAD
+    compressionQuality: 100
+=======
     compressionQuality: 50
+>>>>>>> 1ca0b02101b4941c2281a16fc5f87f9277b2d587
     crunchedCompression: 0
     allowsAlphaSplitting: 0
     overridden: 0

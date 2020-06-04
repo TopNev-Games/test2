@@ -1,7 +1,13 @@
 fileFormatVersion: 2
+<<<<<<< HEAD:topnev test 2/Assets/Samples/Cinemachine/2.5.0/Cinemachine Example Scenes/Shared/Textures/GridBox_blue.png.meta
 guid: f63eea91ff30e6d48800caa1ebc457ef
 timeCreated: 1505915870
 licenseType: Pro
+=======
+guid: ebfdc82a380696f4fa8dad7fed2a8168
+timeCreated: 1516034203
+licenseType: Store
+>>>>>>> 1ca0b02101b4941c2281a16fc5f87f9277b2d587:topnev test 2/Assets/FirstPersion AIO Pack/DemoScene/Working Textures/Doors/Sliding Door Texture.png.meta
 TextureImporter:
   fileIDToRecycleName: {}
   externalObjects: {}

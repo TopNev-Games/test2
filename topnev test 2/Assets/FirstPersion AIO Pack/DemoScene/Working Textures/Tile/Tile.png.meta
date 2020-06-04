@@ -1,6 +1,16 @@
 fileFormatVersion: 2
+<<<<<<< HEAD
+<<<<<<< HEAD:topnev test 2/Assets/FirstPersion AIO Pack/DemoScene/Working Textures/Tile/Tile.png.meta
 guid: d632a02a7991d1040a179b6d0bde1c70
 timeCreated: 1516811755
+=======
+guid: b9f49ca82d77a894a9cdbf7d6387554e
+timeCreated: 1516034203
+>>>>>>> 1ca0b02101b4941c2281a16fc5f87f9277b2d587:topnev test 2/Assets/FirstPersion AIO Pack/DemoScene/Working Textures/Doors/Hinge Door Texture Metallic.png.meta
+=======
+guid: d632a02a7991d1040a179b6d0bde1c70
+timeCreated: 1516811755
+>>>>>>> 1ca0b02101b4941c2281a16fc5f87f9277b2d587
 licenseType: Store
 TextureImporter:
   fileIDToRecycleName: {}
