@@ -6,8 +6,26 @@ Material:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
+<<<<<<< HEAD
+<<<<<<< HEAD
+  m_Name: Drywall
+=======
+<<<<<<< HEAD:topnev test 2/Assets/Samples/Cinemachine/2.5.0/Cinemachine Example Scenes/Shared/Materials/checkerboard.mat
+  m_Name: checkerboard
+=======
+  m_Name: Drywall
+>>>>>>> a89b45125f28f1c0204f86802fe08d9bba5d8cc7:topnev test 2/Assets/FirstPersion AIO Pack/DemoScene/Working Materials/Drywall.mat
+>>>>>>> a89b45125f28f1c0204f86802fe08d9bba5d8cc7
+  m_Shader: {fileID: 46, guid: 0000000000000000f000000000000000, type: 0}
+=======
+<<<<<<< HEAD:topnev test 2/Assets/FirstPersion AIO Pack/DemoScene/Working Materials/Shadeless Black.mat
+  m_Name: Shadeless Black
+  m_Shader: {fileID: 10755, guid: 0000000000000000f000000000000000, type: 0}
+=======
   m_Name: Drywall
   m_Shader: {fileID: 46, guid: 0000000000000000f000000000000000, type: 0}
+>>>>>>> 1ca0b02101b4941c2281a16fc5f87f9277b2d587:topnev test 2/Assets/FirstPersion AIO Pack/DemoScene/Working Materials/Drywall.mat
+>>>>>>> 1ca0b02101b4941c2281a16fc5f87f9277b2d587
   m_ShaderKeywords: 
   m_LightmapFlags: 4
   m_EnableInstancingVariants: 0
@@ -39,8 +57,27 @@ Material:
         m_Scale: {x: 10, y: 10}
         m_Offset: {x: 0, y: 0}
     - _MainTex:
+<<<<<<< HEAD
+<<<<<<< HEAD
         m_Texture: {fileID: 0}
         m_Scale: {x: 10, y: 10}
+=======
+<<<<<<< HEAD:topnev test 2/Assets/Samples/Cinemachine/2.5.0/Cinemachine Example Scenes/Shared/Materials/checkerboard.mat
+        m_Texture: {fileID: 2800000, guid: 0b343b179d2251243a8bbed3fe8e2773, type: 3}
+        m_Scale: {x: 1, y: 1}
+=======
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 10, y: 10}
+>>>>>>> a89b45125f28f1c0204f86802fe08d9bba5d8cc7:topnev test 2/Assets/FirstPersion AIO Pack/DemoScene/Working Materials/Drywall.mat
+>>>>>>> a89b45125f28f1c0204f86802fe08d9bba5d8cc7
+=======
+        m_Texture: {fileID: 0}
+<<<<<<< HEAD:topnev test 2/Assets/FirstPersion AIO Pack/DemoScene/Working Materials/Shadeless Black.mat
+        m_Scale: {x: 1, y: 1}
+=======
+        m_Scale: {x: 10, y: 10}
+>>>>>>> 1ca0b02101b4941c2281a16fc5f87f9277b2d587:topnev test 2/Assets/FirstPersion AIO Pack/DemoScene/Working Materials/Drywall.mat
+>>>>>>> 1ca0b02101b4941c2281a16fc5f87f9277b2d587
         m_Offset: {x: 0, y: 0}
     - _MetallicGlossMap:
         m_Texture: {fileID: 0}
@@ -60,7 +97,15 @@ Material:
     - _DetailNormalMapScale: 1
     - _DstBlend: 0
     - _GlossMapScale: 1
+<<<<<<< HEAD
+<<<<<<< HEAD
     - _Glossiness: 0
+=======
+    - _Glossiness: 0.5
+>>>>>>> a89b45125f28f1c0204f86802fe08d9bba5d8cc7
+=======
+    - _Glossiness: 0.5
+>>>>>>> 1ca0b02101b4941c2281a16fc5f87f9277b2d587
     - _GlossyReflections: 1
     - _Metallic: 0
     - _Mode: 0
@@ -72,5 +117,13 @@ Material:
     - _UVSec: 0
     - _ZWrite: 1
     m_Colors:
+<<<<<<< HEAD
     - _Color: {r: 1, g: 1, b: 1, a: 1}
+=======
+<<<<<<< HEAD:topnev test 2/Assets/FirstPersion AIO Pack/DemoScene/Working Materials/Shadeless Black.mat
+    - _Color: {r: 0.07450981, g: 0.28235295, b: 0.078431375, a: 1}
+=======
+    - _Color: {r: 1, g: 1, b: 1, a: 1}
+>>>>>>> 1ca0b02101b4941c2281a16fc5f87f9277b2d587:topnev test 2/Assets/FirstPersion AIO Pack/DemoScene/Working Materials/Drywall.mat
+>>>>>>> 1ca0b02101b4941c2281a16fc5f87f9277b2d587
     - _EmissionColor: {r: 0, g: 0, b: 0, a: 1}

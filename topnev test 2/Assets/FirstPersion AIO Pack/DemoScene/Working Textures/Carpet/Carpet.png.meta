@@ -1,6 +1,16 @@
 fileFormatVersion: 2
+<<<<<<< HEAD
+<<<<<<< HEAD:topnev test 2/Assets/FirstPersion AIO Pack/DemoScene/Working Textures/Carpet/Carpet.png.meta
 guid: 2a4483bc4627f8d4c8969253f3eb3304
 timeCreated: 1522109845
+=======
+guid: d632a02a7991d1040a179b6d0bde1c70
+timeCreated: 1516811755
+>>>>>>> 1ca0b02101b4941c2281a16fc5f87f9277b2d587:topnev test 2/Assets/FirstPersion AIO Pack/DemoScene/Working Textures/Tile/Tile.png.meta
+=======
+guid: 2a4483bc4627f8d4c8969253f3eb3304
+timeCreated: 1522109845
+>>>>>>> 1ca0b02101b4941c2281a16fc5f87f9277b2d587
 licenseType: Store
 TextureImporter:
   fileIDToRecycleName: {}
